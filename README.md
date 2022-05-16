@@ -14,8 +14,8 @@ The fine-tuning and evaluation scripts are in:
 ### Models
 
 Models are available on HuggingFace (vocab is similar to [wav2vec2-dutch-large-ft-cgn](https://huggingface.co/GroNLP/wav2vec2-dutch-large-ft-cgn)):
-- [wav2vec2-dutch-large-ft-cgn-3hrs](bartelds/wav2vec2-dutch-large-ft-cgn-3hrs)
-- [wav2vec2-large-ft-cgn-3hrs](bartelds/wav2vec2-large-ft-cgn-3hrs)
+- [wav2vec2-dutch-large-ft-cgn-3hrs](https://huggingface.co/bartelds/wav2vec2-dutch-large-ft-cgn-3hrs)
+- [wav2vec2-large-ft-cgn-3hrs](https://huggingface.co/bartelds/wav2vec2-large-ft-cgn-3hrs)
 
 ## Hyperparameters
 Initial experiments showed best performance using:
